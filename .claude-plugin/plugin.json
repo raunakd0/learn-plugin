@@ -1,0 +1,10 @@
+{
+  "name": "learn",
+  "displayName": "Learn",
+  "description": "Study sessions on your own material: probe what you know, keep a prerequisite map, teach one topic at a time from your sources, and run spaced practice. Exam profile with past-paper checks, flashcards and formula sheets.",
+  "author": {
+    "name": "raunakd0"
+  },
+  "repository": "https://github.com/raunakd0/learn-plugin",
+  "keywords": ["learning", "study", "spaced-repetition", "exam"]
+}

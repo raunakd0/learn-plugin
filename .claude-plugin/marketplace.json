@@ -1,0 +1,14 @@
+{
+  "name": "learn-plugin",
+  "description": "The learn plugin for Claude Code",
+  "owner": {
+    "name": "raunakd0"
+  },
+  "plugins": [
+    {
+      "name": "learn",
+      "source": "./",
+      "description": "Study sessions on your own material, with spaced practice and an exam profile"
+    }
+  ]
+}
